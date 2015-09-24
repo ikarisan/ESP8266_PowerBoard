@@ -2,7 +2,7 @@
 
 This is a simple power supply board for the ESP8266-01.
 
-NOTE: The drill holes for the ESP are to small to solder it directly onto the board!
+NOTE: The drill holes for the ESP are too small to solder it directly onto the board!
 But using a precision socket works fine! 
 
 You can order this PCB at OSHPark:
