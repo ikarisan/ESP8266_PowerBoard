@@ -11,4 +11,5 @@ https://github.com/ikarisan/ESP8266_PowerBoard/wiki
 You can order this PCB at OSHPark:
 
 New version:
-https://oshpark.com/shared_projects/B5RrHMIG
+https://oshpark.com/projects/H45RKRgm
+
