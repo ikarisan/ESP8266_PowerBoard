@@ -12,6 +12,3 @@ You can order this PCB at OSHPark:
 
 New version:
 https://oshpark.com/shared_projects/B5RrHMIG
-
-Old version:
-https://oshpark.com/shared_projects/0qEiI5NW
